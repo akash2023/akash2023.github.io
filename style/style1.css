@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    background-color: darkslateblue;
+}
+
+#main {
+   height: 100%;
+   width: 100%;
+}
+
+#main2 {
+    color: white;
+    margin-top: 3%;;
+}
+

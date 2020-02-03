@@ -1,0 +1,10 @@
+body{
+    margin: 0;
+}
+#q{
+border: 10px solid rgb(0, 36, 121);
+}
+p{
+    padding-left: 610px;
+    color: grey;
+}
